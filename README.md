@@ -1,5 +1,6 @@
 ### Hi there, I'm Francisco Labollita 👋
 
+I am a Systems Analyst student at the Univesity of Buenos Aires and have a keen interest in Data Science and Machine Learning. 
 <!--
 **franlabollita/franlabollita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
