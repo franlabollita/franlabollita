@@ -9,6 +9,10 @@ Here are some of my university projects:
 * [Cache Simulator](https://github.com/franlabollita/cachesim)
 * [Playfair Cipher](https://github.com/franlabollita/cifradoplayfair)
 * Pokemon Battle Simulator
+
+#
+
+#About Me
 <!--
 **franlabollita/franlabollita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
