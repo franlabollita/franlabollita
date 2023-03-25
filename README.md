@@ -13,7 +13,7 @@ Here are some of my university projects:
 #
 
 ### About Me ###
-I was born in Buenos Aires, Argentina but grew up in Bermuda :🇧🇲: and Miami, USA :🇺🇸:. At the age of 12, my family decided to move back to Buenos Aires where we remain to this day. Some of my hobbies are: football, chess, watching movies and reading. 
+I was born in Buenos Aires, Argentina but grew up in Bermuda :BM: and Miami, USA :🇺🇸:. At the age of 12, my family decided to move back to Buenos Aires where we remain to this day. Some of my hobbies are: football, chess, watching movies and reading. 
 <!--
 **franlabollita/franlabollita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
