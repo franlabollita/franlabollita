@@ -4,7 +4,7 @@ I am a Systems Analyst student at the University of Buenos Aires and have a keen
 
 #
 
-Here are some of my university projects:
+Here are some of my projects:
 
 * [Cache Simulator](https://github.com/franlabollita/cachesim)
 * [Playfair Cipher](https://github.com/franlabollita/cifradoplayfair)
