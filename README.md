@@ -8,8 +8,6 @@ Here are some of my projects:
 
 * [Cache Simulator](https://github.com/franlabollita/cachesim)
 * [Playfair Cipher](https://github.com/franlabollita/cifradoplayfair)
-* Pokemon Battle Simulator
-* Tetris
 
 #
 
