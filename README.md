@@ -9,7 +9,8 @@ Here are some of my projects:
 * [Cache Simulator](https://github.com/franlabollita/cachesim)
 * [Playfair Cipher](https://github.com/franlabollita/cifradoplayfair)
 * [Tetris](https://github.com/franlabollita/tetris)
-#
+* [Data Analysis of International Football](https://github.com/franlabollita/Data-Analysis-of-International-Football)
+# 
 
 ### About Me ###
 I was born in Buenos Aires, Argentina 🇦🇷, but grew up in Bermuda 🇧🇲 and Miami, USA 🇺🇸. At around the age of 12, my family made the decision to return to Buenos Aires, where I've stayed since. In my free time, I enjoy engaging in football, honing my chess skills, appreciating movies, and delving into books.
