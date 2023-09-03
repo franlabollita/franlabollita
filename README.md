@@ -13,7 +13,7 @@ Here are some of my projects:
 # 
 
 ### About Me ###
-I was born in Buenos Aires, Argentina 🇦🇷, but grew up in Bermuda 🇧🇲 and Miami, USA 🇺🇸. At around the age of 12, my family made the decision to return to Buenos Aires, where I've stayed since. In my free time, I enjoy engaging in football, honing my chess skills, appreciating movies, and delving into books.
+... In my free time, I enjoy engaging in football, honing my chess skills, appreciating movies, and delving into books.
 <!--
 **franlabollita/franlabollita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
